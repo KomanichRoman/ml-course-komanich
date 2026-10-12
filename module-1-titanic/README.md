@@ -25,16 +25,18 @@
 
 ## 📁 Структура модуля
 
+```
 module-1-titanic/
-├── README.md ← этот файл
-├── notebook.ipynb ← полный отчёт: 14 разделов
-├── requirements.txt ← зависимости
+├── README.md                    ← этот файл
+├── notebook.ipynb               ← полный отчёт: 14 разделов
+├── requirements.txt             ← зависимости
 ├── data/
-│ ├── train.csv ← 891 строка с целевой переменной
-│ ├── test.csv ← 418 строк для submission
-│ └── titanic_info.md ← описание датасета
-├── models/ ← сохранённые модели и метаданные
-└── examples/ ← PNG-визуализации
+│   ├── train.csv                ← 891 строка с целевой переменной
+│   ├── test.csv                 ← 418 строк для submission
+│   └── titanic_info.md          ← описание датасета
+├── models/                      ← сохранённые модели и метаданные
+└── examples/                    ← PNG-визуализации
+```
 
 ## 🚀 Быстрый старт
 
