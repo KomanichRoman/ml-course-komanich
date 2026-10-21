@@ -32,3 +32,6 @@ Thumbs.db
 # Архивы
 *.zip
 *.tar.gz
+
+# Служебные файлы CatBoost
+catboost_info/
